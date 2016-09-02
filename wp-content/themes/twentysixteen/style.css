@@ -2969,6 +2969,8 @@ p > video {
 		-webkit-align-items: flex-start;
 		-ms-flex-align: start;
 		align-items: flex-start;
+		background: #ccc none repeat scroll 0 0;
+        padding: 10px;
 	}
 
 	.wp-custom-logo .site-header-main {
